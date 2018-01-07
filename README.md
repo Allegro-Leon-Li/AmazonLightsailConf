@@ -2,7 +2,7 @@
 This is the description for the my Linux server on AmazonLightsail
 ## Server Info
 - **IP address(static):** 18.216.74.102
-- **SSH port:** 2020
+- **SSH port:** 2200
 - **Web app URL:** http://18.216.74.102/
 
 ## Web app config
